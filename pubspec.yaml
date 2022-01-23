@@ -1,0 +1,86 @@
+name: app_cabinet_medic
+description: A new Flutter application.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+
+
+
+dependencies:
+  cupertino_icons: ^1.0.2
+
+  flutter:
+    sdk: flutter
+  font_awesome_flutter:
+  http: ^0.12.0+4
+
+
+
+
+  multi_select_flutter: ^4.0.0
+  shared_preferences: ^2.0.5
+  responsive_widgets: ^0.1.10
+  auto_animated: ^1.2.3
+  flare_flutter: ^1.8.0
+  flutter_staggered_animations: ^0.1.2
+  cached_network_image: ^2.0.0-rc
+  page_transition: "^1.1.5"
+  intl: ^0.17.0
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+
+
+
+flutter:
+
+  uses-material-design: true
+  assets:
+    - assets/images/background.jpg
+    - assets/images/background2.jpg
+    - assets/images/logo.png
+    - assets/images/albert.png
+    - assets/images/bg_shape.png
+    - assets/images/cherly.png
+    - assets/images/1.png
+    - assets/images/2.png
+    - assets/images/3.png
+    - assets/images/4.png
+    - assets/images/5.png
+    - assets/images/Najib.jpg
+    - assets/images/jabir.jpg
+    - assets/images/hass.jpeg
+    - assets/images/oumast.jpg
+    - assets/images/leila.jpeg
+    - assets/images/leila.jpg
+    - assets/images/doctor1.jpg
+    - assets/images/doctor2.jpg
+    - assets/images/doctor3.jpg
+    - assets/images/doctor4.jpg
+    - assets/images/doctor5.jpg
+    - assets/images/doctor6.jpg
+    - assets/images/doctor7.jpg
+    - assets/images/doctor8.jpg
+    - assets/images/mathew.png
+
+fonts:
+  - family: CustomIcons
+    fonts:
+      - asset: assets/fonts/CustomIcons.ttf
+  - family: SFProDisplay
+    fonts:
+      - asset: assets/fonts/SFProDisplay-Bold.otf
+        weight: 700
+      - asset: assets/fonts/SFProDisplay-Semibold.otf
+        weight: 600
+      - asset: assets/fonts/SFProDisplay-Regular.otf
+        weight: 400
+      - asset: assets/fonts/SFProDisplay-Light.otf
+        weight: 300

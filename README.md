@@ -6,11 +6,11 @@ A new Flutter application.
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Ce projet s'inscrit dans le cadre de la conception et la réalisation d’un
+Système de gestion des rendez-vous médicaux.
+Ainsi, le but principal de ce projet est la mise en place d’un système 
+informatisé susceptible de faciliter les processus de prise des rendez-vous 
+et aussi de les gérer de la part de médecin, pour remplacer le 
+processus classique représenté par la prise des rendez-vous par 
+téléphone, qui produit énormément des problèmes tel que la pression 
+sur le téléphone qui peut faire perdre des appels ainsi des rendez-vous
